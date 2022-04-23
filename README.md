@@ -38,8 +38,10 @@
 ## 📊 My GitHub Stats
 
 <p align = "center">
-    <img alt="Top Langs"
-    <img alt="paolodeangelis's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=paolodeangelis&show_icons=true&theme=dark" height= 183>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paolodeangelis&langs_count=5&theme=dark" height= 180>
+    </a>
+    <img alt="paolodeangelis's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=paolodeangelis&show_icons=true&theme=dark" height= 180>
     <br>
     <a href="https://github.com/paolodeangelis/SEI_builder" target="_blank"> <img alt="paolodeangelis's contribution to SEI_builder" src = "https://github-readme-stats.vercel.app/api/pin/?username=paolodeangelis&repo=SEI_builder&show_icons=true&theme=dark" width = 400></a>
     <a href="https://github.com/paolodeangelis/big-map-registry" target="_blank"> <img alt="paolodeangelis's contribution to big-map-registry" src = "https://github-readme-stats.vercel.app/api/pin/?username=paolodeangelis&repo=big-map-registry&show_icons=true&theme=dark" width = 400></a>
