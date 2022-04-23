@@ -1,6 +1,7 @@
 <img width="350" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif">
 
-## Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm [Paolo De Angelis](https://github.com/paolodeangelis)
+# Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm [Paolo De Angelis](https://github.com/paolodeangelis)
+
 [![Ghithub](https://img.shields.io/badge/-@paolodeangelis-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/paolodeangelis)
 [![Linkedin Badge](https://img.shields.io/badge/-paolo_de_angelis-informatilnal?style=flat&logo=Linkedin&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/paolo-de-angelis/)](https://www.linkedin.com/in/paolo-de-angelis/)
 [![Researchgate Badge](https://img.shields.io/badge/-Paolo_De_Angelis-informatilnal?style=flat&logo=researchgate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Paolo-De-Angelis)](https://www.researchgate.net/profile/Paolo-De-Angelis)
@@ -9,9 +10,9 @@
 [![Mail Badge][1]](mailto:paolo.deangelis@polito.it)
 [![Instagram Badge](https://img.shields.io/badge/-dap.93-informatilnal?style=flat&logo=instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/dap.93/)](https://www.instagram.com/dap.93/)
 
-### Nice to meet you  ![visitors](https://visitor-badge.deta.dev/badge?page_id=paolodeangelis.paolodeangelis&left_color=black&right_color=blue)
+## Nice to meet you  ![visitors](https://visitor-badge.deta.dev/badge?page_id=paolodeangelis.paolodeangelis&left_color=black&right_color=blue)
 
-## 👨‍💻 🛠 Technologies & Tools 
+## 👨‍💻 🛠 Technologies & Tools
 
 [![Operative System][2]](https://github.com/paolodeangelis?tab=repositories)
 [![OS - Linux"](https://img.shields.io/badge/OS-Linux-informational?logo=linux&amp;logoColor=white&color=2bbc8a)](https://www.linux.org)
@@ -27,27 +28,26 @@
 [![Code - LaTeX](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=TeX)
 
 ![Skills](https://img.shields.io/badge/-Skills-000000?style=flat-square&logo=Macy’s&logoColor=white)
-[![Skills - MD](https://img.shields.io/badge/CS_Method-Molecular_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Molecular_dynamics) 
-[![Skills - CFD](https://img.shields.io/badge/CS_Method-Computational_Fluid_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) 
+[![Skills - MD](https://img.shields.io/badge/CS_Method-Molecular_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Molecular_dynamics)
+[![Skills - CFD](https://img.shields.io/badge/CS_Method-Computational_Fluid_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)
 
 <p align = "center">
     <a href="https://wakatime.com/@c33f10ac-5107-456f-ac99-5fc14ad87a9d"><img src="https://wakatime.com/badge/user/c33f10ac-5107-456f-ac99-5fc14ad87a9d.svg" alt="Total time coded since Oct 3 2021" /></a>
 </p>
 
-
-## 📊 My GitHub Stats 
+## 📊 My GitHub Stats
 
 <p align = "center">
-    <img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paolodeangelis&show_icons=true&theme=dark" height= 183>
+    <img alt="Top Langs"
     <img alt="paolodeangelis's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=paolodeangelis&show_icons=true&theme=dark" height= 183>
     <br>
     <a href="https://github.com/paolodeangelis/SEI_builder" target="_blank"> <img alt="paolodeangelis's contribution to SEI_builder" src = "https://github-readme-stats.vercel.app/api/pin/?username=paolodeangelis&repo=SEI_builder&show_icons=true&theme=dark" width = 400></a>
     <a href="https://github.com/paolodeangelis/big-map-registry" target="_blank"> <img alt="paolodeangelis's contribution to big-map-registry" src = "https://github-readme-stats.vercel.app/api/pin/?username=paolodeangelis&repo=big-map-registry&show_icons=true&theme=dark" width = 400></a>
 </p>
 
-## ⌚ My Wakatime Stats 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAP93&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
+## ⌚ My Wakatime Stats
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DAP93&theme=dark&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Icons -->
 [1]: https://img.shields.io/badge/-paolo.deangelis@polito.it-c14438?style=flat&color=0078D4&link=mailto:paolo.deangelis@polito.it&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxNi4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIGZvY3VzYWJsZT0iZmFsc2UiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiDQoJIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNjEycHgiIGhlaWdodD0iNjEycHgiIHZpZXdCb3g9IjAgOTAgNjEyIDYxMiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDkwIDYxMiA2MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTYwMC40MDUsMzE4LjA2NWM0LjY2Mi0zLjcwNSwxMS41OTUtMC4yMzksMTEuNTk1LDUuNjE4djI0NC40NDFjMCwzMS42NzYtMjUuNjk5LDU3LjM3NS01Ny4zNzUsNTcuMzc1DQoJSDU3LjM3NUMyNS42OTksNjI1LjUsMCw1OTkuODAxLDAsNTY4LjEyNVYzMjMuODAzYzAtNS45NzcsNi44MTMtOS4zMjQsMTEuNTk1LTUuNjE4QzM4LjM3LDMzOC45ODMsNzMuODcsMzY1LjQsMTk1Ljc5Miw0NTMuOTczDQoJYzI1LjIyMSwxOC40MDgsNjcuNzc0LDU3LjEzNiwxMTAuMjA4LDU2Ljg5NmM0Mi42NzMsMC4zNTksODYuMDYzLTM5LjIwNiwxMTAuMzI3LTU2Ljg5Ng0KCUM1MzguMjQ5LDM2NS40LDU3My42MzEsMzM4Ljg2NCw2MDAuNDA1LDMxOC4wNjV6IE0zMDYsNDcyLjVjMjcuNzMxLDAuNDc5LDY3LjY1NC0zNC45MDMsODcuNzM2LTQ5LjQ4Ng0KCWMxNTguNjE3LTExNS4xMDgsMTcwLjY5LTEyNS4xNDksMjA3LjI2Ny0xNTMuODM2YzYuOTMzLTUuMzc5LDEwLjk5Ny0xMy43NDYsMTAuOTk3LTIyLjU5MXYtMjIuNzExDQoJYzAtMzEuNjc2LTI1LjY5OS01Ny4zNzUtNTcuMzc1LTU3LjM3NUg1Ny4zNzVDMjUuNjk5LDE2Ni41LDAsMTkyLjE5OSwwLDIyMy44NzV2MjIuNzExYzAsOC44NDUsNC4wNjQsMTcuMDkzLDEwLjk5NywyMi41OTENCgljMzYuNTc2LDI4LjU2OCw0OC42NDksMzguNzI4LDIwNy4yNjcsMTUzLjgzNkMyMzguMzQ1LDQzNy41OTcsMjc4LjI2OSw0NzIuOTc5LDMwNiw0NzIuNUwzMDYsNDcyLjV6Ii8+DQo8L3N2Zz4NCg==
@@ -60,11 +60,19 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Lithium Ions Battery modelling
-- 🌱 I’m currently learning advance feature for Python and C++ 
+
+- 🌱 I’m currently learning advance feature for Python and C++
+
 - 👯 I’m looking to collaborate on Atomistic Models
+
 - 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
+
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
+
 -->
