@@ -1,6 +1,6 @@
 <img width="350" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif">
 
-# Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm [Paolo De Angelis](https://github.com/paolodeangelis)
+# Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 [![Ghithub](https://img.shields.io/badge/-@paolodeangelis-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/paolodeangelis)
 [![Linkedin Badge](https://img.shields.io/badge/-paolo_de_angelis-informatilnal?style=flat&logo=Linkedin&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/paolo-de-angelis/)](https://www.linkedin.com/in/paolo-de-angelis/)
