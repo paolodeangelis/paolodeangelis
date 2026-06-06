@@ -2,11 +2,7 @@
 
 # Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="right" style="float: right; max-width: 400px; width: 50%; min-width: 300px; margin: 0 0 16px 24px;">
-    <img src="assets/gif/lisa_getinhere.gif" alt="The Simpsons: The PTA Disbands" style="width: 100%;">
-    <br>
-    <sub>From <em>The Simpsons</em>, "<a href="https://en.wikipedia.org/wiki/The_PTA_Disbands" target="_blank" rel="noopener noreferrer">The PTA Disbands</a>".</sub>
-</p>
+<img align="right" width="370" style="max-width: 400px; width: 45%; max-width:300px;" src="assets/gif/lisa_getinhere.gif" alt="The Simpsons: The PTA Disbands">
 
 ### Connect
 
@@ -26,6 +22,8 @@
 
 [![X Badge](https://img.shields.io/badge/-@Paolo1193-informational?style=flat&logo=x&logoColor=white&color=000000&link=https://x.com/Paolo1193)](https://x.com/Paolo1193)
 [![Instagram Badge](https://img.shields.io/badge/-dap.93-informational?style=flat&logo=instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/dap.93/)](https://www.instagram.com/dap.93/)
+
+<sub>Media credit: <em>The Simpsons</em>, "<a href="https://en.wikipedia.org/wiki/The_PTA_Disbands" target="_blank" rel="noopener noreferrer">The PTA Disbands</a>".</sub>
 
 ## Nice to meet you  ![visitors](https://komarev.com/ghpvc/?username=paolodeangelis&label=Profile%20views&color=0e75b6&style=flat)
 
