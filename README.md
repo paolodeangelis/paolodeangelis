@@ -1,6 +1,8 @@
-<img width="350" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif">
+
 
 # Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+<img width="370" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif">
 
 ### Connect
 
