@@ -2,7 +2,17 @@
 
 # Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<img width="370" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif">
+<!-- <img width="370" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif"> -->
+<p align="right">
+    <img src="assets/gif/lisa_getinhere.gif" alt="xkcd: Computer Problems" style="max-width: 400px;min-width: 300px; width: 50%;">
+    <br>
+    <sub>
+    From <em>The Simpsons</em>, "
+  <a href="https://en.wikipedia.org/wiki/The_PTA_Disbands" target="_blank" rel="noopener noreferrer">
+    The PTA Disbands"
+  </a>.
+    </sub>
+</p>
 
 ### Connect
 
@@ -62,6 +72,14 @@
 <!-- <p align = "center">
     <a href="https://wakatime.com/@c33f10ac-5107-456f-ac99-5fc14ad87a9d"><img src="https://wakatime.com/badge/user/c33f10ac-5107-456f-ac99-5fc14ad87a9d.svg" alt="Total time coded since Oct 3 2021" /></a>
 </p> -->
+
+<p align="center">
+    <a href="https://imgs.xkcd.com/comics/computer_problems.png" target="_blank">
+        <img src="https://imgs.xkcd.com/comics/computer_problems.png" alt="xkcd: Computer Problems" style="max-width: 700px; width: 80%;">
+    </a>
+    <br>
+    <sub>Computer Problems by <a href="https://xkcd.com/722/">Randall Munroe / xkcd</a>.</sub>
+</p>
 
 ## 📊 My GitHub Stats
 
