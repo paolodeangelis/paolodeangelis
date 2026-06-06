@@ -2,54 +2,68 @@
 
 # Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+### Connect
+
 [![GitHub](https://img.shields.io/badge/-@paolodeangelis-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/paolodeangelis)
 [![Linkedin Badge](https://img.shields.io/badge/-paolo_de_angelis-informational?style=flat&logo=Linkedin&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/paolo-de-angelis/)](https://www.linkedin.com/in/paolo-de-angelis/)
+[![Mail Badge][1]](mailto:paolo.deangelis@duke.edu)
+
+### Academic
+
 [![Researchgate Badge](https://img.shields.io/badge/-Paolo_De_Angelis-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/profile/Paolo-De-Angelis)](https://www.researchgate.net/profile/Paolo-De-Angelis)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-informational?style=flat&logo=orcid&logoColor=white&color=A6CE39&link=https://orcid.org/0000-0003-1866-2988)](https://orcid.org/0000-0003-1866-2988)
-[![Twitter Badge](https://img.shields.io/badge/-@Paolo1193-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/Paolo1193)](https://twitter.com/Paolo1193)
-[![Mail Badge][1]](mailto:paolo.deangelis@duke.edu)
+
+### Social
+
+[![X Badge](https://img.shields.io/badge/-@Paolo1193-informational?style=flat&logo=x&logoColor=white&color=000000&link=https://x.com/Paolo1193)](https://x.com/Paolo1193)
 [![Instagram Badge](https://img.shields.io/badge/-dap.93-informational?style=flat&logo=instagram&logoColor=white&color=E4405F&link=https://www.instagram.com/dap.93/)](https://www.instagram.com/dap.93/)
 
 ## Nice to meet you  ![visitors](https://komarev.com/ghpvc/?username=paolodeangelis&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 👨‍💻 🛠 Technologies & Tools
 
-[![Operating System][2]](https://github.com/paolodeangelis?tab=repositories)
-[![OS - Linux](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white&color=2bbc8a)](https://www.linux.org)
-[![OS - Windows](https://img.shields.io/badge/OS-Windows-lightgray?logo=windows&logoColor=white&color=2bbc8a)](https://www.microsoft.com)
+### Languages
 
 [![Code](https://img.shields.io/badge/-Code-000000?style=flat-square&logo=Plex&logoColor=white)](https://github.com/paolodeangelis?tab=repositories)
-[![Shell - Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=bash)
-[![Shell - PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=powershell)
 [![Code - Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=python)
 [![Code - C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=c)
 [![Code - C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=c%2B%2B)
 [![Code - Matlab][3]](https://github.com/paolodeangelis?tab=repositories&language=matlab)
 [![Code - LaTeX](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=TeX)
 
+### Scientific Computing
+
 ![Skills](https://img.shields.io/badge/-Skills-000000?style=flat-square&logo=Macy’s&logoColor=white)
 [![Skills - MD](https://img.shields.io/badge/CS_Method-Molecular_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Molecular_dynamics)
 [![Skills - CFD](https://img.shields.io/badge/CS_Method-Computational_Fluid_Dynamics-informational?style=flat&logoColor=white&color=2bbc8a&logo=Hack%20The%20Box)](https://en.wikipedia.org/wiki/Computational_fluid_dynamics)
 
-<p align = "center">
+### Tools
+
+[![Operating System][2]](https://github.com/paolodeangelis?tab=repositories)
+[![OS - Linux](https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white&color=2bbc8a)](https://www.linux.org)
+[![OS - Windows](https://img.shields.io/badge/OS-Windows-lightgray?logo=windows&logoColor=white&color=2bbc8a)](https://www.microsoft.com)
+[![Shell - Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU%20Bash&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=bash)
+[![Shell - PowerShell](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)](https://github.com/paolodeangelis?tab=repositories&language=powershell)
+
+<!-- <p align = "center">
     <a href="https://wakatime.com/@c33f10ac-5107-456f-ac99-5fc14ad87a9d"><img src="https://wakatime.com/badge/user/c33f10ac-5107-456f-ac99-5fc14ad87a9d.svg" alt="Total time coded since Oct 3 2021" /></a>
-</p>
+</p> -->
 
 ## 📊 My GitHub Stats
 
 <p align = "center">
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img alt="Top Langs" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paolodeangelis&langs_count=5&theme=dark" height= 180>
+    <img alt="Top Langs" src = "https://github-stats-extended.vercel.app/api/top-langs/?username=paolodeangelis&langs_count=5&theme=dark" height= 180>
     </a>
-    <img alt="paolodeangelis's GitHub stats" src = "https://github-readme-stats.vercel.app/api?username=paolodeangelis&show_icons=true&theme=dark" height= 180>
+    <img alt="paolodeangelis's GitHub stats" src = "https://github-stats-extended.vercel.app/api?username=paolodeangelis&show_icons=true&theme=dark" height= 180>
     <br>
-    <a href="https://github.com/paolodeangelis/SEI_builder" target="_blank"> <img alt="paolodeangelis's contribution to SEI_builder" src = "https://github-readme-stats.vercel.app/api/pin/?username=paolodeangelis&repo=SEI_builder&show_icons=true&theme=dark" width = 400></a>
-    <a href="https://github.com/paolodeangelis/big-map-registry" target="_blank"> <img alt="paolodeangelis's contribution to big-map-registry" src = "https://github-readme-stats.vercel.app/api/pin/?username=paolodeangelis&repo=big-map-registry&show_icons=true&theme=dark" width = 400></a>
+    <a href="https://github.com/paolodeangelis/SEI_builder" target="_blank"> <img alt="paolodeangelis's contribution to SEI_builder" src = "https://github-stats-extended.vercel.app/api/pin/?username=paolodeangelis&repo=SEI_builder&show_icons=true&theme=dark" width = 400></a>
+    <a href="https://github.com/paolodeangelis/big-map-registry" target="_blank"> <img alt="paolodeangelis's contribution to big-map-registry" src = "https://github-stats-extended.vercel.app/api/pin/?username=paolodeangelis&repo=big-map-registry&show_icons=true&theme=dark" width = 400></a>
 </p>
 
 <!-- ## ⌚ My Wakatime Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c33f10ac-5107-456f-ac99-5fc14ad87a9d&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=c33f10ac-5107-456f-ac99-5fc14ad87a9d&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- Icons -->
 [1]: https://img.shields.io/badge/-paolo.deangelis@duke.edu-0078D4?style=flat&logo=microsoftoutlook&logoColor=white
