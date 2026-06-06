@@ -2,7 +2,8 @@
 
 # Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<img align="right" width="370" style="max-width: 400px; width: 45%; max-width:300px;" src="assets/gif/lisa_getinhere.gif" alt="The Simpsons: The PTA Disbands">
+<img align="right" width="370" style="max-width: 450px; width: 45%; min-width:300px;" src="assets/gif/lisa_getinhere.gif" alt="The Simpsons: The PTA Disbands">
+<sub>Computer Problems by <a href="https://xkcd.com/722/">Randall Munroe / xkcd</a>.</sub>
 
 ### Connect
 
