@@ -2,16 +2,10 @@
 
 # Ciao <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<!-- <img width="370" alt="GIF" align="right" src="assets/gif/lisa_getinhere.gif"> -->
-<p align="right">
-    <img src="assets/gif/lisa_getinhere.gif" alt="xkcd: Computer Problems" style="max-width: 400px;min-width: 300px; width: 50%;">
+<p align="right" style="float: right; max-width: 400px; width: 50%; min-width: 300px; margin: 0 0 16px 24px;">
+    <img src="assets/gif/lisa_getinhere.gif" alt="The Simpsons: The PTA Disbands" style="width: 100%;">
     <br>
-    <sub>
-    From <em>The Simpsons</em>, "
-  <a href="https://en.wikipedia.org/wiki/The_PTA_Disbands" target="_blank" rel="noopener noreferrer">
-    The PTA Disbands"
-  </a>.
-    </sub>
+    <sub>From <em>The Simpsons</em>, "<a href="https://en.wikipedia.org/wiki/The_PTA_Disbands" target="_blank" rel="noopener noreferrer">The PTA Disbands</a>".</sub>
 </p>
 
 ### Connect
